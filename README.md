@@ -1,6 +1,6 @@
 # CSES Solutions
 
-Over 300 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in rust by [jhq223](https://cses.fi/user/204742). As of 2024-1-29, the following number of solutions have been completed:
+Over 300 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in rust by [jhq223](https://cses.fi/user/204742). As of 2024-2-28, the following number of solutions have been completed:
 
 | Problem Type          | Number Solved |
 | --------------------- | :-----------: |
@@ -20,29 +20,25 @@ Over 300 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset
 # Table of Contents
 
 ## Introductory Problems
-* [Weird Algorithm](/Introductory%20Problems/Weird%20Algorithm.rs)
-* [Missing Number](/Introductory%20Problems/Missing%20Number.rs)
-* [Repetitions](/Introductory%20Problems/Repetitions.rs)
-* [Increasing Array](/Introductory%20Problems/Increasing%20Array.rs)
-* [Permutations](/Introductory%20Problems/Permutations.rs)
-* [Number Spiral](/Introductory%20Problems/Number%20Spiral.rs)
-* [Two Knights](/Introductory%20Problems/Two%20Knights.rs)
-* [Two Sets](/Introductory%20Problems/Two%20Sets.rs)
-* [Bit Strings](/Introductory%20Problems/Bit%20Strings.rs)
-* [Trailing Zeros](/Introductory%20Problems/Trailing%20Zeros.rs)
-* [Coin Piles](/Introductory%20Problems/Coin%20Piles.rs)
-* [Palindrome Reorder](/Introductory%20Problems/Palindrome%20Reorder.rs)
-* [Gray Code](/Introductory%20Problems/Gray%20Code.rs)
-* [Tower of Hanoi](/Introductory%20Problems/Tower%20of%20Hanoi.rs)
-* [Creating Strings](/Introductory%20Problems/Creating%20Strings.rs)
-* [Apple Division](/Introductory%20Problems/Apple%20Division.rs)
-* [Chessboard and Queens](/Introductory%20Problems/Chessboard%20and%20Queens.rs)
-* [Digit Queries](/Introductory%20Problems/Digit%20Queries.rs)
+* [Weird Algorithm](/introductory-problems/weird-algorithm/src/main.rs)
+* [Missing Number](/introductory-problems/missing-number/src/main.rs)
+* [Repetitions](/introductory-problems/repetitions/src/main.rs)
+* [Increasing Array](/introductory-problems/increasing-array/src/main.rs)
+* [Permutations](/introductory-problems/permutations/src/main.rs)
+* [Number Spiral](/introductory-problems/number-spiral/src/main.rs)
+* [Two Knights](/introductory-problems/two-knights/src/main.rs)
+* [Two Sets](/introductory-problems/two-sets/src/main.rs)
+* [Bit Strings](/introductory-problems/bit-strings/src/main.rs)
+* [Trailing Zeros](/introductory-problems/trailing-zeros/src/main.rs)
+* [Coin Piles](/introductory-problems/coin-piles/src/main.rs)
+* [Palindrome Reorder](/introductory-problems/palindrome-reorder/src/main.rs)
+* [Gray Code](/introductory-problems/gray-code/src/main.rs)
+* [Tower of Hanoi](/introductory-problems/tower-of-hanoi/src/main.rs)
+* [Creating Strings](/introductory-problems/creating-strings/src/main.rs)
+* [Apple Division](/introductory-problems/apple-division/src/main.rs)
+* [Chessboard and Queens](/introductory-problems/chessboard-and-queens/src/main.rs)
+* [Digit Queries](/introductory-problems/digit-queries/src/main.rs)
 * Grid Paths
-
-# temp END
-
----
 
 ## Sorting and Searching
 * Distinct Numbers

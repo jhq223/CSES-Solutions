@@ -1,0 +1,18 @@
+[workspace]
+members = [
+    "introductory-problems/apple-division",
+    "introductory-problems/bit-strings",
+    "introductory-problems/chessboard-and-queens",
+    "introductory-problems/coin-piles",
+    "introductory-problems/creating-strings",
+    "introductory-problems/digit-queries", "introductory-problems/gray-code", "introductory-problems/increasing-array", "introductory-problems/missing-number", "introductory-problems/number-spiral", "introductory-problems/palindrome-reorder", "introductory-problems/permutations", "introductory-problems/repetitions", "introductory-problems/tower-of-hanoi", "introductory-problems/trailing-zeros", "introductory-problems/two-knights", "introductory-problems/two-sets", "introductory-problems/weird-algorithm",
+]
+
+resolver = "2"
+
+[workspace.package]
+description = "Solutions to the CSES Problems in Rust"
+readme = "README.md"
+license = "MIT"
+repository = "https://github.com/jhq223/CSES-Solutions"
+rust-version = "1.71"
