@@ -27,6 +27,10 @@ name = "digit-queries"
 version = "0.1.0"
 
 [[package]]
+name = "distinct-numbers"
+version = "0.1.0"
+
+[[package]]
 name = "gray-code"
 version = "0.1.0"
 

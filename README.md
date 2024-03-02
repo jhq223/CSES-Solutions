@@ -5,7 +5,7 @@ Over 300 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset
 | Problem Type          | Number Solved |
 | --------------------- | :-----------: |
 | Introductory Problems |     18/19     |
-| Sorting and Searching |     0/35      |
+| Sorting and Searching |     1/35      |
 | Dynamic Programming   |     0/19      |
 | Graph Algorithms      |     0/36      |
 | Range Queries         |     0/19      |
@@ -15,7 +15,7 @@ Over 300 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset
 | Geometry              |      0/7      |
 | Advanced Techniques   |     0/24      |
 | Additional Problems   |     0/77      |
-| **Total**             |  **18/300**   |
+| **Total**             |  **19/300**   |
 
 # Table of Contents
 
@@ -41,7 +41,7 @@ Over 300 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset
 * Grid Paths
 
 ## Sorting and Searching
-* Distinct Numbers
+* [Distinct Numbers](/sorting-and-searching/distinct-numbers/src/main.rs)
 * Apartments
 * Ferris Wheel
 * Concert Tickets
