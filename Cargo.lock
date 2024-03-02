@@ -31,6 +31,10 @@ name = "gray-code"
 version = "0.1.0"
 
 [[package]]
+name = "grid-paths"
+version = "0.1.0"
+
+[[package]]
 name = "increasing-array"
 version = "0.1.0"
 
