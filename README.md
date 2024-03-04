@@ -1,11 +1,11 @@
 # CSES Solutions
 
-Over 300 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in rust by [jhq223](https://cses.fi/user/204742). As of 2024-2-28, the following number of solutions have been completed:
+Over 300 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in rust by [jhq223](https://cses.fi/user/204742). As of 2024-3-4, the following number of solutions have been completed:
 
 | Problem Type          | Number Solved |
 | --------------------- | :-----------: |
 | Introductory Problems |     18/19     |
-| Sorting and Searching |     1/35      |
+| Sorting and Searching |     3/35      |
 | Dynamic Programming   |     0/19      |
 | Graph Algorithms      |     0/36      |
 | Range Queries         |     0/19      |
@@ -15,7 +15,7 @@ Over 300 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset
 | Geometry              |      0/7      |
 | Advanced Techniques   |     0/24      |
 | Additional Problems   |     0/77      |
-| **Total**             |  **19/300**   |
+| **Total**             |  **21/300**   |
 
 # Table of Contents
 
@@ -42,8 +42,8 @@ Over 300 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset
 
 ## Sorting and Searching
 * [Distinct Numbers](/sorting-and-searching/distinct-numbers/src/main.rs)
-* Apartments
-* Ferris Wheel
+* [Apartments](/sorting-and-searching/apartments/src/main.rs)
+* [Ferris Wheel](/sorting-and-searching/ferris-wheel/src/main.rs)
 * Concert Tickets
 * Restaurant Customers
 * Movie Festival
@@ -53,7 +53,7 @@ Over 300 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset
 * [Missing Coin Sum]
 * [Collecting Numbers]
 * [Collecting Numbers II]
-* [Playlist]
+* [Playlist]()
 * [Towers](/Sorting%20and%20Searching/Towers.cpp)
 * [Traffic Lights](/Sorting%20and%20Searching/Traffic%20Lights.cpp)
 * [Josephus Problem I](/Sorting%20and%20Searching/Josephus%20Problem%20I.cpp)

@@ -35,6 +35,10 @@ name = "distinct-numbers"
 version = "0.1.0"
 
 [[package]]
+name = "ferris-wheel"
+version = "0.1.0"
+
+[[package]]
 name = "gray-code"
 version = "0.1.0"
 
