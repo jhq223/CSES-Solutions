@@ -23,6 +23,10 @@ name = "coin-piles"
 version = "0.1.0"
 
 [[package]]
+name = "concert-tickets"
+version = "0.1.0"
+
+[[package]]
 name = "creating-strings"
 version = "0.1.0"
 
@@ -68,6 +72,10 @@ version = "0.1.0"
 
 [[package]]
 name = "repetitions"
+version = "0.1.0"
+
+[[package]]
+name = "restaurant-customers"
 version = "0.1.0"
 
 [[package]]
