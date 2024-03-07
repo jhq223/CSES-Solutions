@@ -5,7 +5,7 @@ Over 300 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset
 | Problem Type          | Number Solved |
 | --------------------- | :-----------: |
 | Introductory Problems |     18/19     |
-| Sorting and Searching |     4/35      |
+| Sorting and Searching |     5/35      |
 | Dynamic Programming   |     0/19      |
 | Graph Algorithms      |     0/36      |
 | Range Queries         |     0/19      |
@@ -15,7 +15,7 @@ Over 300 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset
 | Geometry              |      0/7      |
 | Advanced Techniques   |     0/24      |
 | Additional Problems   |     0/77      |
-| **Total**             |  **22/300**   |
+| **Total**             |  **23/300**   |
 
 # Table of Contents
 
@@ -46,7 +46,7 @@ Over 300 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset
 * [Ferris Wheel](/sorting-and-searching/ferris-wheel/src/main.rs)
 * Concert Tickets
 * [Restaurant Customers](/sorting-and-searching/restaurant-customers/src/main.rs)
-* Movie Festival
+* [Movie Festival](/sorting-and-searching/movie-festival/src/main.rs)
 * [Sum of Two Values]
 * [Maximum Subarray Sum]
 * [Stick Lengths]
