@@ -83,6 +83,10 @@ name = "restaurant-customers"
 version = "0.1.0"
 
 [[package]]
+name = "sum-of-two-values"
+version = "0.1.0"
+
+[[package]]
 name = "tower-of-hanoi"
 version = "0.1.0"
 
