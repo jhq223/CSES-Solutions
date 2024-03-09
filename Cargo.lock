@@ -55,6 +55,10 @@ name = "increasing-array"
 version = "0.1.0"
 
 [[package]]
+name = "maximum-subarray-sum"
+version = "0.1.0"
+
+[[package]]
 name = "missing-number"
 version = "0.1.0"
 
