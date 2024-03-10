@@ -1,11 +1,11 @@
 # CSES Solutions
 
-Over 300 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in rust by [jhq223](https://cses.fi/user/204742). As of 2024-3-4, the following number of solutions have been completed:
+Over 300 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in rust by [jhq223](https://cses.fi/user/204742). As of 2024-3-10, the following number of solutions have been completed:
 
 | Problem Type          | Number Solved |
 | --------------------- | :-----------: |
 | Introductory Problems |     18/19     |
-| Sorting and Searching |     7/35      |
+| Sorting and Searching |     10/35     |
 | Dynamic Programming   |     0/19      |
 | Graph Algorithms      |     0/36      |
 | Range Queries         |     0/19      |
@@ -15,7 +15,7 @@ Over 300 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset
 | Geometry              |      0/7      |
 | Advanced Techniques   |     0/24      |
 | Additional Problems   |     0/77      |
-| **Total**             |  **25/300**   |
+| **Total**             |  **28/300**   |
 
 # Table of Contents
 
@@ -49,9 +49,9 @@ Over 300 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset
 * [Movie Festival](/sorting-and-searching/movie-festival/src/main.rs)
 * [Sum of Two Values](/sorting-and-searching/sum-of-two-values/src/main.rs)
 * [Maximum Subarray Sum](/sorting-and-searching/maximum-subarray-sum/src/main.rs)
-* [Stick Lengths]
-* [Missing Coin Sum]
-* [Collecting Numbers]
+* [Stick Lengths](/sorting-and-searching/stick-lengths/src/main.rs)
+* [Missing Coin Sum](/sorting-and-searching/missing-coin-sum/src/main.rs)
+* [Collecting Numbers](/sorting-and-searching/collecting-numbers/src/main.rs)
 * [Collecting Numbers II]
 * [Playlist]()
 * [Towers](/Sorting%20and%20Searching/Towers.cpp)

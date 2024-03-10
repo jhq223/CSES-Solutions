@@ -23,6 +23,10 @@ name = "coin-piles"
 version = "0.1.0"
 
 [[package]]
+name = "collecting-numbers"
+version = "0.1.0"
+
+[[package]]
 name = "concert-tickets"
 version = "0.1.0"
 
@@ -59,6 +63,10 @@ name = "maximum-subarray-sum"
 version = "0.1.0"
 
 [[package]]
+name = "missing-coin-sum"
+version = "0.1.0"
+
+[[package]]
 name = "missing-number"
 version = "0.1.0"
 
@@ -84,6 +92,10 @@ version = "0.1.0"
 
 [[package]]
 name = "restaurant-customers"
+version = "0.1.0"
+
+[[package]]
+name = "stick-lengths"
 version = "0.1.0"
 
 [[package]]
