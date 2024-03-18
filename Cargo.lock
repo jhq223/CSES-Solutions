@@ -27,6 +27,10 @@ name = "collecting-numbers"
 version = "0.1.0"
 
 [[package]]
+name = "collecting-numbers-2"
+version = "0.1.0"
+
+[[package]]
 name = "concert-tickets"
 version = "0.1.0"
 
@@ -87,6 +91,10 @@ name = "permutations"
 version = "0.1.0"
 
 [[package]]
+name = "playlist"
+version = "0.1.0"
+
+[[package]]
 name = "repetitions"
 version = "0.1.0"
 
@@ -104,6 +112,10 @@ version = "0.1.0"
 
 [[package]]
 name = "tower-of-hanoi"
+version = "0.1.0"
+
+[[package]]
+name = "towers"
 version = "0.1.0"
 
 [[package]]
