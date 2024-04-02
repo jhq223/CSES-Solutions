@@ -1,6 +1,5 @@
 use std::io;
 
-// !!!!!! TLE not pass
 fn main() {
     let mut input = String::new();
     io::stdin().read_line(&mut input).unwrap();
@@ -30,29 +29,40 @@ fn dfs(
     let dx: [i32; 4] = [0, 1, 0, -1];
     let dy: [i32; 4] = [1, 0, -1, 0];
 
-    // 边界检查
-    if r == 0 || r == 8 || c == 0 || c == 8 {
-        return;
-    }
-
-    // 访问过
     if vis[r][c] {
         return;
     }
 
-    // 到达终点
-    if s == 48 {
-        if r == 7 && c == 1 {
+    // 遇到墙必定会分两部分
+    if !vis[r][c + 1] && !vis[r][c - 1] && vis[r + 1][c] && vis[r - 1][c] {
+        return;
+    }
+    if !vis[r + 1][c] && !vis[r - 1][c] && vis[r][c + 1] && vis[r][c - 1] {
+        return;
+    }
+
+    // 被包围，必定会损失其一
+    if !vis[r + 1][c + 1] && vis[r + 1][c] && vis[r][c + 1] {
+        return;
+    }
+    if !vis[r + 1][c - 1] && vis[r + 1][c] && vis[r][c - 1] {
+        return;
+    }
+    if !vis[r - 1][c - 1] && vis[r - 1][c] && vis[r][c - 1] {
+        return;
+    }
+    if !vis[r - 1][c + 1] && vis[r - 1][c] && vis[r][c + 1] {
+        return;
+    }
+
+    if r == 7 && c == 1 {
+        if s == 48 {
             *res += 1;
         }
         return;
     }
 
-    // 必定失败的情况
-    if
-        (!vis[r][c + 1] && !vis[r][c - 1] && vis[r + 1][c] && vis[r - 1][c]) ||
-        (!vis[r + 1][c] && !vis[r - 1][c] && vis[r][c + 1] && vis[r][c - 1])
-    {
+    if s == 48 {
         return;
     }
 

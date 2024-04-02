@@ -1,10 +1,10 @@
 # CSES Solutions
 
-Over 300 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in rust by [jhq223](https://cses.fi/user/204742). As of 2024-3-10, the following number of solutions have been completed:
+Over 300 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in rust by [jhq223](https://cses.fi/user/204742). As of 2024-4-02, the following number of solutions have been completed:
 
 | Problem Type          | Number Solved |
 | --------------------- | :-----------: |
-| Introductory Problems |     18/19     |
+| Introductory Problems |     19/19     |
 | Sorting and Searching |     10/35     |
 | Dynamic Programming   |     0/19      |
 | Graph Algorithms      |     0/36      |
@@ -15,7 +15,7 @@ Over 300 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset
 | Geometry              |      0/7      |
 | Advanced Techniques   |     0/24      |
 | Additional Problems   |     0/77      |
-| **Total**             |  **28/300**   |
+| **Total**             |  **29/300**   |
 
 # Table of Contents
 
@@ -38,7 +38,7 @@ Over 300 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset
 * [Apple Division](/introductory-problems/apple-division/src/main.rs)
 * [Chessboard and Queens](/introductory-problems/chessboard-and-queens/src/main.rs)
 * [Digit Queries](/introductory-problems/digit-queries/src/main.rs)
-* Grid Paths
+* [Grid Paths](/introductory-problems/grid-paths/src/main.rs)
 
 ## Sorting and Searching
 * [Distinct Numbers](/sorting-and-searching/distinct-numbers/src/main.rs)
